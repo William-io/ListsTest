@@ -1,0 +1,16 @@
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\ListsTest\bin\Debug\net5.0\ListsTest.exe
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\ListsTest\bin\Debug\net5.0\ListsTest.deps.json
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\ListsTest\bin\Debug\net5.0\ListsTest.runtimeconfig.json
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\ListsTest\bin\Debug\net5.0\ListsTest.runtimeconfig.dev.json
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\ListsTest\bin\Debug\net5.0\ListsTest.dll
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\ListsTest\bin\Debug\net5.0\ref\ListsTest.dll
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\ListsTest\bin\Debug\net5.0\ListsTest.pdb
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\ListsTest\obj\Debug\net5.0\ListsTest.csprojAssemblyReference.cache
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\ListsTest\obj\Debug\net5.0\ListsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\ListsTest\obj\Debug\net5.0\ListsTest.AssemblyInfoInputs.cache
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\ListsTest\obj\Debug\net5.0\ListsTest.AssemblyInfo.cs
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\ListsTest\obj\Debug\net5.0\ListsTest.csproj.CoreCompileInputs.cache
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\ListsTest\obj\Debug\net5.0\ListsTest.dll
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\ListsTest\obj\Debug\net5.0\ref\ListsTest.dll
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\ListsTest\obj\Debug\net5.0\ListsTest.pdb
+C:\Users\capul\OneDrive\source\repos\Code Snippets\CSharp\ListsTest\obj\Debug\net5.0\ListsTest.genruntimeconfig.cache
